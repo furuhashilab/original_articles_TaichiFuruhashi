@@ -7,7 +7,6 @@
 ## 修士論文
 * [乗鞍岳におけるハイマツ(Pinus Pumila)群落の動態について_東京大学大学院修士論文_古橋大地.pdf](https://github.com/furuhashilab/original_articles_TaichiFuruhashi/blob/main/GraduateThesis/%E4%B9%97%E9%9E%8D%E5%B2%B3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%8F%E3%82%A4%E3%83%9E%E3%83%84(Pinus%20Pumila)%E7%BE%A4%E8%90%BD%E3%81%AE%E5%8B%95%E6%85%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E8%AB%96%E6%96%87_%E5%8F%A4%E6%A9%8B%E5%A4%A7%E5%9C%B0.pdf)
 
-＜＜ その他鋭意更新中 ＞＞
-
+## ＜＜ その他鋭意更新中 ＞＞
 * [Google Scholar プロフィール](https://scholar.google.com/citations?user=RDhXqG0AAAAJ&hl=ja
 )
